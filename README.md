@@ -1,10 +1,9 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Join the chat at https://gitter.im/primefaces/primeng](https://badges.gitter.im/primefaces/primeng.svg)](https://gitter.im/primefaces/primeng?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# 关于clonePrimengVersion
 
-# PrimeNG
+1. 先克隆/下载下来。
 
-UI Components for Angular
+2. 直接npm install。
 
-See [PrimeNG homepage](http://www.primefaces.org/primeng) for live showcase and documentation.
+3. ne serve 跑起来即可。
 
-![alt text](https://www.primefaces.org/primeng/assets/showcase/images/primeng-sidebar.svg "PrimeNG")
+4. 由于我们主要用到的是它的DataTable控件，运行起来后直接 data/dataTable 已全部中文翻译，翻译不妥的地方本人已注解！
