@@ -1,0 +1,14 @@
+{
+    "data": [
+        {"brand": "VW", "year": 2012, "color": "Orange", "vin": "01"},
+        {"brand": "Audi", "year": 2011, "color": "Black", "vin": "02"},
+        {"brand": "Renault", "year": 2005, "color": "Gray", "vin": "03"},
+        {"brand": "BMW", "year": 2003, "color": "Blue", "vin": "04"},
+        {"brand": "Mercedes", "year": 1995, "color": "Orange", "vin": "05"},
+        {"brand": "Volvo", "year": 2005, "color": "Black", "vin": "06"},
+        {"brand": "Honda", "year": 2012, "color": "Yellow", "vin": "07"},
+        {"brand": "Jaguar", "year": 2013, "color": "Orange", "vin": "08"},
+        {"brand": "Ford", "year": 2000, "color": "Black", "vin": "09"},
+        {"brand": "Fiat", "year": 2013, "color": "Red", "vin": "10"}
+    ]
+}
